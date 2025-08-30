@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const HOST_URI = "http://localhost:8080"
+const HOST_URI = "https://itutsav-ckb.onrender.com"
 // const headers = { 
 //     'ngrok-skip-browser-warning':true
 // }
